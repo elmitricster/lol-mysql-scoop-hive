@@ -1,0 +1,1 @@
+# lol-mysql-scoop-hive
