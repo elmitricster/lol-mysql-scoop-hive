@@ -1,1 +1,3 @@
-# lol-mysql-scoop-hive
+# 4학년 2학기 빅데이터시스템 개인 프로젝트
+
+Mysql-Scoop-Hive를 이용한 게임 데이터 분석
